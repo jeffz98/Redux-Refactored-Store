@@ -32,11 +32,7 @@ Run `npm start` to start the server.
 
 ## Deployed Link
 
-[https://jeffz98.github.io/Twilights-React-Portfolio/](https://jeffz98.github.io/Twilights-React-Portfolio/)
-
-## Screenshots
-
-![Screenshot](./assets/images/React-portfolio-SS.png)
+[https://redux-refactored-store.herokuapp.com/](https://redux-refactored-store.herokuapp.com/)
 
 ## Credits
 This application was built with the support of the resources and staff of the UCB Full Stack Full Time Coding Bootcamp Summer 2022. 
